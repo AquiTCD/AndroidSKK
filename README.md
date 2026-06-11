@@ -1,5 +1,11 @@
 # SKK for Android 改造版
 
+> [!IMPORTANT]
+> **このリポジトリは現在アーカイブされており、読み取り専用です。**
+> 
+> ここで開発されていた独自の変更（SandSのASCIIモード対応、Emacs風ナビキー、キーバインド変更、かなルールインポートなど）は、すべてフォーク元の [tamo/AndroidSKK](https://github.com/tamo/AndroidSKK) に取り込まれました。
+> 今後の最新版の利用や開発については、本家リポジトリをご参照ください。
+
 ## 元ネタ
 
 [minghai様](https://code.google.com/archive/p/android-apps-by-minghai/) と
